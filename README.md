@@ -1,8 +1,23 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
+To draw the UML diagram for Railway Management System.
 
 # SRS (Procedure):
+
+Create the following diagrams in StarUML:
+
+Use Case Diagram
+
+Class Diagram
+
+Activity Diagram
+
+Package Diagram
+
+Communication Diagram
+
+Sequence Diagram
 
 # DIAGRAMS:
 ACTIVITY DIAGRAM 
@@ -24,3 +39,5 @@ USECASE DIAGRAM
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/7ae20414-4a40-450c-889b-3640bbc16e6b)
 
 # RESULT:
+
+Thus the program is verified succeccfully.
